@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|c:\\users\\niyaz\\source\\repos\\decision_game_web\\game.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|solutionrelative:game.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|C:\\Users\\niyaz\\source\\repos\\decision_game_web\\game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|solutionrelative:game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|C:\\Users\\niyaz\\source\\repos\\decision_game_web\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|C:\\Users\\niyaz\\source\\repos\\decision_game_web\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|C:\\Users\\niyaz\\source\\repos\\decision_game_web\\endgame.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|solutionrelative:endgame.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|C:\\Users\\niyaz\\source\\repos\\decision_game_web\\endgame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D2A32800-D38F-4764-8621-E51BAA862EE5}|decision_game_web.csproj|solutionrelative:endgame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:50:32.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-12T06:35:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.aspx",
+              "DocumentMoniker": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Game.aspx",
+              "RelativeDocumentMoniker": "Game.aspx",
+              "ToolTip": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Game.aspx",
+              "RelativeToolTip": "Game.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T05:51:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Game.aspx.cs",
+              "RelativeDocumentMoniker": "Game.aspx.cs",
+              "ToolTip": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\Game.aspx.cs",
+              "RelativeToolTip": "Game.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:37:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EndGame.aspx",
+              "DocumentMoniker": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\EndGame.aspx",
+              "RelativeDocumentMoniker": "EndGame.aspx",
+              "ToolTip": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\EndGame.aspx",
+              "RelativeToolTip": "EndGame.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-12T05:33:42.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndGame.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\EndGame.aspx.cs",
+              "RelativeDocumentMoniker": "EndGame.aspx.cs",
+              "ToolTip": "C:\\Users\\niyaz\\source\\repos\\decision_game_web\\EndGame.aspx.cs",
+              "RelativeToolTip": "EndGame.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:33:39.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
