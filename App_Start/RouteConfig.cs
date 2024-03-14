@@ -11,12 +11,12 @@ namespace decision_game_web
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
-            routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+            routes.Ignore("{resource}.axd/{*pathInfo}");
 
-            routes.MapRoute(
-                name: "Default",
-                url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+            routes.MapPageRoute(
+                "HomePage",
+                "Home",
+                "~/Home.aspx"
             );
         }
     }

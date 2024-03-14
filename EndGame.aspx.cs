@@ -37,39 +37,9 @@ namespace decision_game_web
 
         }
 
-        //private void SaveSessionData()
+        //protected void btnFinish_Click(object sender, EventArgs e)
         //{
-        //    // Get the session data
-        //    var sessionId = Session.SessionID;
-        //    var age = Session["Age"];
-        //    var sex = Session["Sex"];
-        //    var connectId = Session["ConnectId"];
-        //    var userScore = Session["UserScore"];
-        //    var rounds = Session["Rounds"] as List<RoundData>;
-
-        //    // Create a StringBuilder to hold the CSV data
-        //    var csv = new StringBuilder();
-
-        //    // Add a header row (only if the file doesn't exist yet)
-        //    if (!File.Exists(Server.MapPath("~/Data.csv")))
-        //    {
-        //        csv.AppendLine("SessionId,Age,Sex,ConnectId,UserScore,Round,A,B,C,ClickedButton,PointsEarned");
-        //    }
-
-        //    // Add a row for each round
-        //    foreach (var round in rounds)
-        //    {
-        //        csv.AppendLine($"{sessionId},{age},{sex},{connectId},{userScore},{round.Round},{round.A},{round.B},{round.C},{round.ClickedButton},{round.PointsEarned}");
-        //    }
-
-        //    // Write the CSV data to a file
-        //    File.AppendAllText(Server.MapPath("~/Data.csv"), csv.ToString());
+        //    Response.Redirect("Home.aspx");
         //}
-
-
-        protected void btnFinish_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("Home.aspx");
-        }
     }
 }
